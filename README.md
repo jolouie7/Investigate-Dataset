@@ -1,7 +1,7 @@
 # Investigate-Dataset
 Project 2 from Udacity Nanodegree
 ## Project Overview
-In this project, I have choosen a TMDB movie dataset to preform analysis on using different python libraries such as Numpy, Pandas, and  Matplotlib. 
+In this project, I have chosen a TMDB movie dataset to preform analysis on using different python libraries such as Numpy, Pandas, and  Matplotlib. 
 ## Set Up
 In this project I downloaded Anaconda, which provides all the needed libraries. You will need python Numpy, Pandas, and Matplotlib for this project.
 ## Process
